@@ -10,7 +10,7 @@ Steps to run Application:
 5. Open backend folder from the file and open the file Config.env
 ![configEnv](https://user-images.githubusercontent.com/28834424/121061736-daf52500-c7e1-11eb-832f-878383a6d327.PNG)
 6. Now go to MongoDb clusters and create a cluster over there with your name after logging in. (Don't forget to whitelist your IPV4 address).
-7. Now you will get a username and passcode just enter that username in the place of <your username> in 3rd line of config.env and replace <your password> with your generated passcode (Don't forget to remove the <> angles brackets).
+7. Now you will get a username and passcode just enter that username in the place of underlined 𝘺𝘰𝘶𝘳 𝘶𝘴𝘦𝘳𝘯𝘢𝘮𝘦 in 3rd line of config.env and replace 𝘺𝘰𝘶𝘳 𝘱𝘢𝘴𝘴𝘸𝘰𝘳𝘥 with your generated passcode (Don't forget to remove the <> angles brackets).
 8. Now save the file and you are good to go in the terminal move to backend directory and run "𝘯𝘱𝘮 𝘳𝘶𝘯 𝘴𝘦𝘳𝘷𝘦𝘳".
 9. Now move to frontend directory using terminal and run "𝘯𝘱𝘮 𝘴𝘵𝘢𝘳𝘵".
 10. Your Backend and frontend servers are running successfully. Register a user and try to log in.
